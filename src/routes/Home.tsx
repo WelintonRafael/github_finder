@@ -3,7 +3,7 @@ import { UsersProps } from "../types/users";
 import React from "react";
 import Search from "../components/Search";
 import {useState}from "react";
-
+import Users from '../components/Users'
 
 const Home = () => {
 
